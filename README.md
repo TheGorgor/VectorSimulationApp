@@ -9,4 +9,4 @@
 
   Run `npm run dev` to start the development server.
                     
-  Run vector-simulation file to start the app.
+  Run vector-simulation.exe file to start the app.
